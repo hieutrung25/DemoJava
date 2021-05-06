@@ -6,7 +6,7 @@ public class Next {
         int x = 10;
         System.out.println("x:" +x);
         String s = sc.next();
-        System.out.println("s: "+ "abc" +s);
+        System.out.println("s: "+ "" +s);
 //        String d = sc.nextLine();
 //        System.out.println("d:" + d);
     }
